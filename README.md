@@ -6,10 +6,10 @@ We conduct our calls on Discord. You can view upcoming calls on the "Events" sec
 
 ## Past Meetings
 
-| Date       | Title                   | Notes                                         |
-| ---------- | ----------------------- | --------------------------------------------- |
-| 2023-02-23 | Bi-Weekly Working Group | [Meeting Notes](./office-hours/2023-02-23.md) |
-| 2023-02-09 | Bi-Weekly Working Group | [Meeting Notes](./office-hours/2023-02-09.md) |
-| 2023-02-02 | Bi-Weekly Working Group | [Meeting Notes](./office-hours/2023-02-02.md) |
-| 2023-01-19 | Bi-Weekly Working Group | [Meeting Notes](./office-hours/2023-01-19.md) |
-| 2023-01-05 | Bi-Weekly Working Group | [Meeting Notes](./office-hours/2023-01-05.md) |
+| Date       | Title                   | Notes                                    |
+| ---------- | ----------------------- | ---------------------------------------- |
+| 2023-02-23 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-02-23.md) |
+| 2023-02-09 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-02-09.md) |
+| 2023-02-02 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-02-02.md) |
+| 2023-01-19 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-01-19.md) |
+| 2023-01-05 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-01-05.md) |
