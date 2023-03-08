@@ -4,6 +4,10 @@ This repo contains the meeting nodes for meetings held by the Tauri org.
 
 We conduct our calls on Discord. You can view upcoming calls on the "Events" section there: https://discord.com/invite/tauri
 
+## Template
+
+You can find a suggested template for meetings here: [template.md](./template.md). Feel free to adapt it to the needs of your meeting.
+
 ## Past Meetings
 
 | Date       | Title                   | Notes                                    |
