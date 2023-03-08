@@ -1,10 +1,19 @@
 # Meetings
 
-## Office Hours
+This repo contains the meeting notes for meetings held by the Tauri org.
 
-We have office hour on Thursday bi-weekly. See Discord announcement for more informatoin.
+We conduct our calls on Discord. You can view upcoming calls on the "Events" section there: https://discord.com/invite/tauri
 
-## Other Meetings
+## Template
 
-Please find a list of past and upcoming meetings here:
-- https://hackmd.io/AaBBj1UvQPyQ9ml6OYoeQw?view
+You can find a suggested template for meetings here: [template.md](./template.md). Feel free to adapt it to the needs of your meeting.
+
+## Past Meetings
+
+| Date       | Title                   | Notes                                    |
+| ---------- | ----------------------- | ---------------------------------------- |
+| 2023-02-23 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-02-23.md) |
+| 2023-02-09 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-02-09.md) |
+| 2023-02-02 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-02-02.md) |
+| 2023-01-19 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-01-19.md) |
+| 2023-01-05 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-01-05.md) |
