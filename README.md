@@ -12,6 +12,7 @@ You can find a suggested template for meetings here: [template.md](./template.md
 
 | Date       | Title                   | Notes                                    |
 | ---------- | ----------------------- | ---------------------------------------- |
+| 2023-06-02 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-06-02.md) |
 | 2023-05-19 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-05-19.md) |
 | 2023-05-05 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-05-05.md) |
 | 2023-04-21 | Bi-Weekly Working Group | [Meeting Notes](./archive/2023-04-21.md) |
